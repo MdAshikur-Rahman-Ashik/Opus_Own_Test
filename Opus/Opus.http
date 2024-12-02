@@ -1,0 +1,6 @@
+@Opus_HostAddress = http://localhost:5178
+
+GET {{Opus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
